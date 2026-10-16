@@ -42,7 +42,7 @@ const martim = {
 
 ## Contacto
 
-- LinkedIn: _[adicionar]_
+- LinkedIn: [martim-santos-655623284](https://www.linkedin.com/in/martim-santos-655623284)
 - Email: [martimsantos@icloud.com](mailto:martimsantos@icloud.com)
 
 <div align="center">
